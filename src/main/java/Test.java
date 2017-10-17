@@ -3,6 +3,8 @@ public class Test {
    private String names="ss3ss";
    private String name2="ssss";
    private String pass="SSDF";
+   private String pass3="SSDF";
+
 
    public String getName() {
       return name;
