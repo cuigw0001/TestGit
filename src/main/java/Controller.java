@@ -16,7 +16,7 @@ public class Controller extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         //解决乱码
         System.err.println("sfdf");
-        System.err.println("sfdf");
+        System.err.println("abcd");
         req.setCharacterEncoding("UTF-8");
 
         req.setCharacterEncoding("UTF-8");
