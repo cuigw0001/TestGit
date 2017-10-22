@@ -3,5 +3,7 @@ public class OO {
 
     private String pass;
     private String ban;
+    
+     private String banserver;
 
 }
