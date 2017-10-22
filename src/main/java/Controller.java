@@ -22,6 +22,7 @@ public class Controller extends HttpServlet {
         System.err.println("def");
         System.err.println("789");
         System.err.println("456");
+        System.err.println("888");
         req.setCharacterEncoding("UTF-8");
 
         req.setCharacterEncoding("UTF-8");
